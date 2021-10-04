@@ -23,7 +23,7 @@ let person = new Person();
 person.isAdult();
 
 // function isAdult(): 0.0001s
-
+```
 
 ### Dependency
 ```
