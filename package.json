@@ -1,0 +1,24 @@
+{
+  "name": "log-execution-time",
+  "version": "1.0.0",
+  "description": "Log method execution time",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hastalavistababy/log-execution-time.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hastalavistababy/log-execution-time/issues"
+  },
+  "homepage": "https://github.com/Hastalavistababy/log-execution-time#readme",
+  "devDependencies": {
+    "@types/node": "^16.10.2"
+  }
+}
