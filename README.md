@@ -23,4 +23,9 @@ let person = new Person();
 person.isAdult();
 
 // function isAdult(): 0.0001s
+
+
+### Dependency
+```
+please set experimentalDecorators and allowSyntheticDefaultImports true in tsconfig.json 
 ```
