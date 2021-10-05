@@ -22,5 +22,10 @@ class Person {
 let person = new Person();
 person.isAdult();
 
-// functino isAdult(): 0.0001s
+// function isAdult(): 0.0001s
+```
+
+### Dependency
+```
+please set experimentalDecorators and allowSyntheticDefaultImports true in tsconfig.json 
 ```
